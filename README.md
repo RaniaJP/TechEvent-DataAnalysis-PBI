@@ -31,8 +31,8 @@ Data sourced from event reports in Excel, including:
 
 | Section | Preview |
 |---------|---------|
-| Attendance Overview | ![](screenshots/screenshot1.png) |
-| Event & Room Details | ![](screenshots/screenshot2.png) |
-| Satisfaction Insights | ![](screenshots/screenshot3.png) |
+| Attendance Overview | ![](P1.png) |
+| Event & Room Details | ![](P2.png) |
+| Satisfaction Insights | ![](P3.png) |
 
 ---
