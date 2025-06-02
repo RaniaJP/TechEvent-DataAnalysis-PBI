@@ -17,7 +17,6 @@ This dashboard was developed using Power BI to analyze data from a multi-day tec
 
 - Power BI Desktop
 - Excel for initial data cleaning
-- DAX (basic measures)
 - Slicers & visual interactions
 
 ## 📁 Dataset
