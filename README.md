@@ -24,7 +24,8 @@ This dashboard was developed using Power BI to analyze data from a multi-day tec
 Data sourced from event reports in Excel, including:
 - Session types, city, day
 - Number of seats vs actual attendees
-- Feedback scores (1–5) converted to percentage
+- I used average feedback scores (from 1 to 100) to measure participant satisfaction.
+
 
 ## 📸 Dashboard Snapshots
 
